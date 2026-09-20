@@ -1,4 +1,14 @@
 <h1 align="center">X-NEMESIS</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROMPTS-THAT%20BREAK%20LIMITS-E11D2E?style=for-the-badge&labelColor=0D0D0D" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-PROMPTS-E11D2E?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/FOR-DEVELOPERS-E11D2E?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-E11D2E?style=flat-square&labelColor=0D0D0D" />
+</p>
 <p align="center"><code>> Prompts that break limits.</code></p>
 
 ---

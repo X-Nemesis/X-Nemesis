@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">X-NEMESIS</h1>
+<p align="center"><code>> Prompts that break limits.</code></p>
 
-<!--
-**X-Nemesis/X-Nemesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### // what this is
+Advanced AI prompts for developers. Tested. Specific. No filler.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### // what you'll find
+- `debugging/`: find root causes, not symptoms
+- `code-review/`: catch what humans miss
+- `architecture/`: design before you build
+- `refactoring/`: clean code without breaking it
+- `security/`: audit like an attacker, fix like a defender
+
+### // rules
+- Every prompt is tested on real models
+- Every prompt has an example input and output
+- No recycled lists
+
+### // start here
+→ [Best prompts](https://github.com/X-Nemesis/YOUR-FIRST-REPO)
+
+---
+<sub>New drops regularly. Follow to catch them.</sub>
